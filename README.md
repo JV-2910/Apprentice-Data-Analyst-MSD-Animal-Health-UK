@@ -7,7 +7,7 @@ Hi there! I'm Janvi, I'm transitioning from pharmaceutical production into data 
 ---
 
 ### 📈 Featured Project
-**[Cleanroom Monitoring Dashboard](https://github.com/yourname/cleanroom-monitoring-dashboard)**  
+**[REAL-TIME MONITORING OF CLEANROOM CONDITIONS](https://github.com/user-attachments/assets/4039c2f1-a1fd-40d8-bf63-43b0e415c836)**  
 Monitors real-time conditions in pharma cleanrooms (CFU, temp, pressure) with alerts and KPI cards in Power BI.
 
 ---
